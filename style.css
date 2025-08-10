@@ -76,6 +76,10 @@ body{
 .col img{
   width: 40px;
   margin-right: 10px;
+  mix-blend-mode: multiply;
+}
+.weather img{
+  mix-blend-mode: multiply;
 }
 .humidity,.wind{
   font-size: 28px;
